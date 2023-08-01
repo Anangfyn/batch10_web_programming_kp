@@ -1,0 +1,21 @@
+Menghitung Luas dan keliling Lingkaran
+
+
+input jari-jari Lingkaran r (r>=0)
+    Rumus Luas Lingkaran input or Rumus Keliling Lingkaran
+    Luas
+    L= 22/7 or (3,14) * r * r
+    Keliling
+    K= 22/7 or (3,14) * 2r
+
+Proses (e.g r= 7)
+    L= 22/7 * 7 * 7
+     = 154 (hasilLuas)
+     
+    K= 22/7 * 2r
+      =22/7 * 2*7
+      =44 (hasilKeliling) 
+
+output
+>luas lingkaran = hasilLuas
+>keliling lingkaran = hasilKeliling

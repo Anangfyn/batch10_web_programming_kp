@@ -1,0 +1,21 @@
+https://codeshare.io/webb10sesi04
+membuat algoritma> by case: ngoding dulu baru revisi 
+- creat sketsa (alur, langkah, kebutuhan, dll)
+ melulusan mahasiswa :
+parameter?
+If nilai >= 60 && 100 =< maka lulus
+else : tidak lulus
+bikin flow chart= drawio,dll
+
+psudocode:
+input 1(first)
+input 2(second)
+hasil = input + input 2
+output hasil
+
+
+looping/perulangan
+
+nilai = 1
+kalau kira mn sudaj hitung dari 1 s.d 10
+for (nilai = 1,nilau <= 10; nilai++
